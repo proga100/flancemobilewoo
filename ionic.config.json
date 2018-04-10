@@ -1,0 +1,8 @@
+{
+  "name": "FlanceMobileWoo",
+  "app_id": "c7818735",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
